@@ -1,0 +1,13 @@
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Aula_Lambda_Delegates\Aula_Lambda_Delegates\bin\Debug\netcoreapp3.1\Aula_Lambda_Delegates.exe
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Aula_Lambda_Delegates\Aula_Lambda_Delegates\bin\Debug\netcoreapp3.1\Aula_Lambda_Delegates.deps.json
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Aula_Lambda_Delegates\Aula_Lambda_Delegates\bin\Debug\netcoreapp3.1\Aula_Lambda_Delegates.runtimeconfig.json
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Aula_Lambda_Delegates\Aula_Lambda_Delegates\bin\Debug\netcoreapp3.1\Aula_Lambda_Delegates.runtimeconfig.dev.json
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Aula_Lambda_Delegates\Aula_Lambda_Delegates\bin\Debug\netcoreapp3.1\Aula_Lambda_Delegates.dll
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Aula_Lambda_Delegates\Aula_Lambda_Delegates\bin\Debug\netcoreapp3.1\Aula_Lambda_Delegates.pdb
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Aula_Lambda_Delegates\Aula_Lambda_Delegates\obj\Debug\netcoreapp3.1\Aula_Lambda_Delegates.csproj.AssemblyReference.cache
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Aula_Lambda_Delegates\Aula_Lambda_Delegates\obj\Debug\netcoreapp3.1\Aula_Lambda_Delegates.AssemblyInfoInputs.cache
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Aula_Lambda_Delegates\Aula_Lambda_Delegates\obj\Debug\netcoreapp3.1\Aula_Lambda_Delegates.AssemblyInfo.cs
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Aula_Lambda_Delegates\Aula_Lambda_Delegates\obj\Debug\netcoreapp3.1\Aula_Lambda_Delegates.csproj.CoreCompileInputs.cache
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Aula_Lambda_Delegates\Aula_Lambda_Delegates\obj\Debug\netcoreapp3.1\Aula_Lambda_Delegates.dll
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Aula_Lambda_Delegates\Aula_Lambda_Delegates\obj\Debug\netcoreapp3.1\Aula_Lambda_Delegates.pdb
+D:\Documents\Curso C#\Projetos Visual Studio 2021\Aula_Lambda_Delegates\Aula_Lambda_Delegates\obj\Debug\netcoreapp3.1\Aula_Lambda_Delegates.genruntimeconfig.cache
